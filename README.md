@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Case Study.
+> Understanding the driving factors (or driver variables) behind loan default, or the variables which are strong indicators of default of a person and not paying the company back to utilize the companies protofolio and risk assesment.
 
 
 ## Table of Contents
