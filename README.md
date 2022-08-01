@@ -1,1 +1,0 @@
-# Lending-Club-Case-Study-Khalid-Omar
