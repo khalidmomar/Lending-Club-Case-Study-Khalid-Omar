@@ -10,17 +10,18 @@
 
 <!-- You can include any other section that is pertinent to your problem -->
 
-## Features used to make an effecient credit risk analysis to be able to identify the necessary features to build the analysis upon:
+## Features used to make an effecient credit risk analysis: to be able to identify the significant features of a defualter to build the analysis upon:
 -The “5 Cs of Credit” are as follows: 
 
     --Character – This refers to the creditworthiness of the borrower based on their previous records and repayment history.
 
     --Capacity – The repayment capacity of the borrower is determined by his income, profession, and other probable wealth they might possess. 
 
-    --Collateral – Here, a borrower needs to pledge an asset as a guarantee in order to be able to receive the desired amount of loan. The amount of loan given out is       also determined by the value of the collateral.
+    --Collateral – Here, a borrower needs to pledge an asset as a guarantee in order to be able to receive the desired amount of loan. The amount of loan given out is also determined by the value of the collateral.
 
     --Capital – This refers to the overall wealth that the borrower possesses.
-      Conditions – This is the final step of the transaction where specifications of the transaction like the amount leaded, rate of interest, monthly repayment             amount, etc is calculated based on the above factors for the borrower. 
+    
+    --Conditions – This is the final step of the transaction where specifications of the transaction like the amount leaded, rate of interest, monthly repayment amount, etc is calculated based on the above factors for the borrower. 
 
 ## General Information ( Problem, Data Used, Company Goal)
 
@@ -33,16 +34,20 @@
 - Identify features that would lead to a defualter and the realtion of multimple factors for a loan to be defualted.
 - The aim is to identify patterns which indicate if a person is likely to default, which may be used for taking actions such as denying the loan, reducing the amount     of loan, lending (to risky applicants) at a higher interest rate, etc.
 - The data used is loans.csv
+- -This company is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. Borrowers can easily access   lower interest rate loans through a fast online interface. 
+-Like most other lending companies, lending loans to ‘risky’ applicants is the largest source of financial loss (called credit loss). Credit loss is the amount of money lost by the lender when the borrower refuses to pay or runs away with the money owed. In other words, borrowers who default cause the largest amount of loss to the lenders. In this case, the customers labelled as 'charged-off' are the 'defaulters'. 
+-If one is able to 
+-In other words, the company wants to 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Business Objectives
 
--This company is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. Borrowers can easily access   lower interest rate loans through a fast online interface. 
--Like most other lending companies, lending loans to ‘risky’ applicants is the largest source of financial loss (called credit loss). Credit loss is the amount of money lost by the lender when the borrower refuses to pay or runs away with the money owed. In other words, borrowers who default cause the largest amount of loss to the lenders. In this case, the customers labelled as 'charged-off' are the 'defaulters'. 
--If one is able to identify these risky loan applicants, then such loans can be reduced thereby cutting down the amount of credit loss. Identification of such applicants using EDA is the aim of this case study.
--In other words, the company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default.  The company can utilise this knowledge for its portfolio and risk assessment. 
--To develop your understanding of the domain, you are advised to independently research a little about risk analytics (understanding the types of variables and their significance should be enough).
+1.Identifying risky loan applicants (defaulters) which will not repay the loan, then such loans can be reduced thereby cutting down the amount of credit loss to the company. Identification of such applicants using EDA is the aim of this case study.
+
+2.After idnetifying those variables the company will understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default.
+
+3.Then the company will be able to utilise this knowledge for its portfolio and risk assessment. 
 
 ## Conclusions
 - Conclusion 1 from the analysis
@@ -54,25 +59,21 @@
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- numpy version: 1.21.5
+- pandas version: 1.4.2
+- seaborn version: 0.11.2
+- matplotlib version: 3.5.1
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 Give credit here.
 - This project was inspired by...
-- References if any...
+- References:
+- https://www.jigsawacademy.com/understanding-credit-risk-analytics/ (To Identify the significant factors on credit risk analysis)
 - This project was based on [this tutorial](https://www.example.com).
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@khalidmomar] - feel free to contact me!
+Created by [@nadeem] - feel free to contact me!
 
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
