@@ -62,7 +62,7 @@ Give credit here.
 - This project was inspired by...
 - References:
 - https://www.jigsawacademy.com/understanding-credit-risk-analytics/ (To Identify the significant factors on credit risk analysis)
-- This project was based on [this tutorial](https://www.example.com).
+- This project was based on [upGrad_MSC_Course](https://learn.upgrad.com/course/3074/segment/24517/151163/464327/2407657)
 
 
 ## Contact
