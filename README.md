@@ -11,6 +11,17 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information ( Problem, Data Used, Company Goal)
+-The “5 Cs of Credit” are as follows: 
+
+    --Character – This refers to the creditworthiness of the borrower based on their previous records and repayment history.
+
+    --Capacity – The repayment capacity of the borrower is determined by his income, profession, and other probable wealth they might possess. 
+
+    --Collateral – Here, a borrower needs to pledge an asset as a guarantee in order to be able to receive the desired amount of loan. The amount of loan given out is       also determined by the value of the collateral.
+
+    --Capital – This refers to the overall wealth that the borrower possesses.
+      Conditions – This is the final step of the transaction where specifications of the transaction like the amount leaded, rate of interest, monthly repayment             amount, etc is calculated based on the above factors for the borrower. 
+      
 - You work for a consumer finance company which specialises in lending various types of loans to urban customers. When the company receives a loan application, the       company has to make a decision for loan approval based on the applicant’s profile. Two types of risks are associated with the bank’s decision:
 
     If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company
