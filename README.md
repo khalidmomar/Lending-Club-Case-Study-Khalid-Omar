@@ -1,14 +1,32 @@
 # Lending Club Case Study.
-> Understanding the driving factors (or driver variables) behind loan default, or the variables which are strong indicators of default of a person and not paying the company back to utilize the companies protofolio and risk assesment.
+This company is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. Borrowers can easily access lower interest rate loans through a fast online interface. 
+> We will identigy and understand the driving factors (or driver variables) behind loan default, or the variables which are strong indicators of default of a person and not paying the company back to utilize the companies protofolio and risk assesment.
 
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Technologies Used](#technologies-used)
+* [Business Objectives](#business-objectives)
+* [Features used to make an effecient credit risk analysis:](#features-used)
 * [Conclusions](#conclusions)
+* [Technologies Used](#technologies-used)
 * [Acknowledgements](#acknowledgements)
 
-<!-- You can include any other section that is pertinent to your problem -->
+
+## General Information
+      
+-As a large consumer finance company which specialises in lending various types of loans to urban customers. When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile. Two types of risks are associated with the bank’s decision:
+
+1. If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company
+
+2. If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a **financial loss for the company
+
+## Business Objectives
+
+1.Identifying risky loan applicants (defaulters) which will not repay the loan, then such loans can be reduced thereby cutting down the amount of credit loss to the company. Identification of such applicants using EDA is the aim of this case study.
+
+2.After idnetifying those variables the company will understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default.
+
+3.Then the company will be able to utilise this knowledge for its portfolio and risk assessment. 
 
 ## Features used to make an effecient credit risk analysis: to be able to identify the significant features of a defualter to build the analysis upon:
 -The “5 Cs of Credit” are as follows: 
@@ -22,32 +40,6 @@
     --Capital – This refers to the overall wealth that the borrower possesses.
     
     --Conditions – This is the final step of the transaction where specifications of the transaction like the amount leaded, rate of interest, monthly repayment amount, etc is calculated based on the above factors for the borrower. 
-
-## General Information ( Problem, Data Used, Company Goal)
-
-      
-- You work for a consumer finance company which specialises in lending various types of loans to urban customers. When the company receives a loan application, the       company has to make a decision for loan approval based on the applicant’s profile. Two types of risks are associated with the bank’s decision:
-
-    If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company
-
-    If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the company
-- Identify features that would lead to a defualter and the realtion of multimple factors for a loan to be defualted.
-- The aim is to identify patterns which indicate if a person is likely to default, which may be used for taking actions such as denying the loan, reducing the amount     of loan, lending (to risky applicants) at a higher interest rate, etc.
-- The data used is loans.csv
-- -This company is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. Borrowers can easily access   lower interest rate loans through a fast online interface. 
--Like most other lending companies, lending loans to ‘risky’ applicants is the largest source of financial loss (called credit loss). Credit loss is the amount of money lost by the lender when the borrower refuses to pay or runs away with the money owed. In other words, borrowers who default cause the largest amount of loss to the lenders. In this case, the customers labelled as 'charged-off' are the 'defaulters'. 
--If one is able to 
--In other words, the company wants to 
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-## Business Objectives
-
-1.Identifying risky loan applicants (defaulters) which will not repay the loan, then such loans can be reduced thereby cutting down the amount of credit loss to the company. Identification of such applicants using EDA is the aim of this case study.
-
-2.After idnetifying those variables the company will understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default.
-
-3.Then the company will be able to utilise this knowledge for its portfolio and risk assessment. 
 
 ## Conclusions
 - Conclusion 1 from the analysis
