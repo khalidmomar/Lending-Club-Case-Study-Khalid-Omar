@@ -10,7 +10,7 @@
 
 <!-- You can include any other section that is pertinent to your problem -->
 
-## General Information ( Problem, Data Used, Company Goal)
+## Features used to make an effecient credit risk analysis to be able to identify the necessary features to build the analysis upon:
 -The “5 Cs of Credit” are as follows: 
 
     --Character – This refers to the creditworthiness of the borrower based on their previous records and repayment history.
@@ -21,6 +21,9 @@
 
     --Capital – This refers to the overall wealth that the borrower possesses.
       Conditions – This is the final step of the transaction where specifications of the transaction like the amount leaded, rate of interest, monthly repayment             amount, etc is calculated based on the above factors for the borrower. 
+
+## General Information ( Problem, Data Used, Company Goal)
+
       
 - You work for a consumer finance company which specialises in lending various types of loans to urban customers. When the company receives a loan application, the       company has to make a decision for loan approval based on the applicant’s profile. Two types of risks are associated with the bank’s decision:
 
