@@ -1,7 +1,6 @@
 # Lending Club Case Study.
-This company is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. Borrowers can easily access lower interest rate loans through a fast online interface. 
-> We will identify and understand the driving factors (or driver variables) behind loan default, or the variables which are strong indicators of default of a person and not paying the company back to utilize the companies protofolio and risk assesment.
-
+Our company is one of the largest online loan marketplace, facilitating all purpose loans. The Borrowers can easily access lower interest rate loans through a fast online platform. 
+> Thus we will identify and understand the driving factors (or significant variables) behind loan default the variables of a person pushing towards a default (not paying the company back) to utilize the companies protofolio and risk assesment and update its platform.
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -22,8 +21,10 @@ This company is the largest online loan marketplace, facilitating personal loans
 
 ## Business Objectives
 
-1.Our aim of this case study is identifying risky loan applicants (defaulters) which will not repay the loan, then such loans can be reduced thereby cutting down the amount of risky loan applicants which represent a chance of loss to the company using explaratory data analysis. 
+1.Our aim of this case study is identifying risky loan applicants (defaulters) which will not repay the loan, then such loans can be reduced thereby cutting down the amount of risky loan applicants which represent a chance of loss to the company using explaratory data analysis.
+
 2.After idnetifying those variables the we will inform the company with the findings of analysis and understand the driving factors significant variables behind loan default. 
+
 3.Then the company will be able to utilise this knowledge for its portfolio and credit risk assessment.
 
 ## Features used to make an effecient credit risk analysis: to be able to identify the significant features of a defualter to build the analysis upon:
