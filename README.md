@@ -57,8 +57,7 @@ Our company is one of the largest online loan marketplace, facilitating all purp
 
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
+- This project was inspired by upGrad Course.
 - References:
 - https://www.jigsawacademy.com/understanding-credit-risk-analytics/ (To Identify the significant factors on credit risk analysis)
 - This project was based on [upGrad_MSC_Course](https://learn.upgrad.com/course/3074/segment/24517/151163/464327/2407657)
