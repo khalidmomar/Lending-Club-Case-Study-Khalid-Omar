@@ -54,6 +54,8 @@ Our company is one of the largest online loan marketplace, facilitating all purp
 - pandas version: 1.4.2
 - seaborn version: 0.11.2
 - matplotlib version: 3.5.1
+- Missingno Version : 0.4.2
+
 
 
 ## Acknowledgements
